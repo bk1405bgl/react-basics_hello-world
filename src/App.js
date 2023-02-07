@@ -10,7 +10,10 @@ function HelloWorld() {
     <div>
       <h1>Hello World!</h1>
       <p>
-        This is rendered by <strong>React!</strong>
+        This is rendered by{" "}
+        <strong>
+          <u>React</u>!
+        </strong>
       </p>
     </div>
   );
